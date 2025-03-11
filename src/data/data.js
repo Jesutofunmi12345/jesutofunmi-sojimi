@@ -31,7 +31,7 @@ export const data = [
     name: "Sellersmart: Ecommerce Application",
     image: WorkIm9,
     github: "",
-    live: "http://20.126.75.78:3035/",
+    live: "https://sellersmart.ng/",
   },
   {
     id: 4,
